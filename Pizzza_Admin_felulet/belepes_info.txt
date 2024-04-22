@@ -1,0 +1,6 @@
+Ha telepíti a programot,akkor a parancsikonként szereplő Pizza_Admin_Beallitasok-ban és, ha nem telepíti a programot akkor a programban  \Pizzza_Admin_felulet\bin\Debug\config.ini  elérsi úton tudja bekonfigurálni a fájlt az adatbázis eléréshez.
+
+Belépéshez szükséges adatok: 
+				Felhasználónév: admin
+				Jelszó:	      : 1234
+

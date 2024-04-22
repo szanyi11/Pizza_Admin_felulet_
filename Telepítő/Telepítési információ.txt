@@ -1,7 +1,0 @@
-1.Lépés: Telepítse fel a Pizzza_Admin_Setup.msi nevű fájlt.
-2.Lépés: Adja hozzá az adatbázisához az liget_pizzeria.sql fájlt.
-3.Lépés: A program megnyitása elött ellenőrizzük az asztalon létrehozott config.ini fájlunkat.
-4.Lépés: Konfigurájuk config.ini -fájlt a saját beállításaink szerint.
-5.Lépés: Amennyiben bejelentkezési problémánk van ellenőrizzük a config.ini fájlt,és az sqlt!
-Felhasználónév: admin
-Jelszó: 1234
