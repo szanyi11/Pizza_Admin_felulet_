@@ -1,0 +1,301 @@
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.AssemblyReference.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\App.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.lref
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.g.resources
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.Properties.Resources.resources
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.GenerateResource.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CoreCompileInputs.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.baml
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.AssemblyReference.cache
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.g.cs
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\App.g.cs
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.cache
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.lref
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.baml
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.g.resources
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.Properties.Resources.resources
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.GenerateResource.cache
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.g.cs
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.g.cs
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.g.cs
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.g.cs
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.baml
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.baml
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.baml
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.baml
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.g.cs
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.g.cs
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.g.cs
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.baml
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.baml
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.baml
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.g.cs
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\MySql.Data.xml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CopyComplete
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\MySql.Data.xml
+C:\Users\Vostro\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CopyComplete
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\MySql.Data.xml
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.AssemblyReference.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\App.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.lref
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.g.resources
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.Properties.Resources.resources
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.GenerateResource.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CoreCompileInputs.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CopyComplete
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe
+C:\Users\szanyi11\OneDrive\Asztali gép\proba\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_feltethozzaadasa_modositasa.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_feltethozzaadasa_modositasa.baml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\MySql.Data.dll
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Google.Protobuf.dll
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\ZstdNet.dll
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Memory.dll
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Buffers.dll
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\MySql.Data.xml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.AssemblyReference.cache
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.g.cs
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.g.cs
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.g.cs
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_feltethozzaadasa_modositasa.g.cs
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.g.cs
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.g.cs
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.g.cs
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.g.cs
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.g.cs
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.g.cs
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\App.g.cs
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.cache
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.lref
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.baml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.baml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.baml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_feltethozzaadasa_modositasa.baml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.baml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.baml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.baml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.baml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.baml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.baml
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.g.resources
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.Properties.Resources.resources
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.GenerateResource.cache
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CoreCompileInputs.cache
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CopyComplete
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe
+C:\Users\sza_e22\Desktop\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Google.Protobuf.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\ZstdNet.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Memory.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Buffers.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.SuggestedBindingRedirects.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Google.Protobuf.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\ZstdNet.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Memory.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Buffers.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\MySql.Data.xml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.AssemblyReference.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.SuggestedBindingRedirects.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_feltethozzaadasa_modositasa.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\App.g.cs
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.lref
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_feltethozzaadasa_modositasa.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.baml
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.g.resources
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.Properties.Resources.resources
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.GenerateResource.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CoreCompileInputs.cache
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CopyComplete
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe
+C:\Users\szanyi11\OneDrive\Asztali gép\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\MySql.Data.dll
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Google.Protobuf.dll
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\ZstdNet.dll
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Memory.dll
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Buffers.dll
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\MySql.Data.xml
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.AssemblyReference.cache
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.g.cs
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.g.cs
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.g.cs
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_feltethozzaadasa_modositasa.g.cs
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.g.cs
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.g.cs
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.g.cs
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.g.cs
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.g.cs
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.g.cs
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\App.g.cs
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.cache
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.lref
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.baml
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.baml
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.baml
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_feltethozzaadasa_modositasa.baml
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.baml
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.baml
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.baml
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.baml
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.baml
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.baml
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.g.resources
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.Properties.Resources.resources
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.GenerateResource.cache
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CoreCompileInputs.cache
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CopyComplete
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe
+C:\Users\sza_e22\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.exe
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Pizzza_Admin_felulet.pdb
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Google.Protobuf.dll
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\ZstdNet.dll
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Memory.dll
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Buffers.dll
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\bin\Debug\MySql.Data.xml
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.AssemblyReference.cache
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe.config
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.g.cs
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.g.cs
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.g.cs
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_feltethozzaadasa_modositasa.g.cs
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.g.cs
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.g.cs
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.g.cs
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.g.cs
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.g.cs
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.g.cs
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\App.g.cs
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.cache
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet_MarkupCompile.lref
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Bejelentkezes.baml
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_fomenu.baml
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_etlapmodositasa.baml
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_feltethozzaadasa_modositasa.baml
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\etlap_menu_termektipusa.baml
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Etlap_menu\Etlap_menu_ujtermek.baml
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Fomenu.baml
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Modositasok_fomenu.baml
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Rendelesek_fomenu.baml
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Segitseg_fomenu.baml
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.g.resources
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.Properties.Resources.resources
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.GenerateResource.cache
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_A.158ABF1B.Up2Date
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.exe
+C:\Users\Vostro\Desktop\Pizza_Admin_felulet\Pizzza_Admin_felulet\Pizzza_Admin_felulet\obj\Debug\Pizzza_Admin_felulet.pdb
