@@ -1,0 +1,10 @@
+1.Lépés: Telepítse fel a Pizza_Admin_Telepito.msi nevű fájlt.
+2.Lépés: Adja hozzá az adatbázisához az liget_pizzeria.sql fájlt.
+3.Lépés: A program megnyitása elött ellenőrizzük a telepítési könyvtárban létrehozott config.ini fájlunkat.
+4.Lépés: Konfigurájuk config.ini -fájlt a saját beállításaink szerint.
+5.Lépés: A 'Pizzza_Admin_felulet.exe'-nel kattintsunk jobb egérgombal a fájlunkra, majd a tulajdonságokra, és azon 	 	 belül a a felső menüpontban a Kompatibilitás-ra.Majd a beállításokban pipájuk ki a "A program futtatása 	 	 rendszergazdaként" részt.(Így alapesetben mindig rendszergazdaként futtatja a programot,így a program 	 		 megfelelően fog működni!) 
+5.Lépés: Amennyiben bejelentkezési problémánk van ellenőrizzük a config.ini fájlt,és az sqlt!
+
+6.Lépés: Bejelentkezéshez szükséges adatok: 
+Felhasználónév: admin
+Jelszó: 1234
