@@ -1,0 +1,1 @@
+A Pizzza_Admin_felulet mappában található az Pizza_Admin_Felült telepítője, és a  Pizzza_Admin_felulet mappában található a Telepítési és a program futtatásával kapcsolatos információk.txt állomány amely segít a program egyszerű telepítésében.
